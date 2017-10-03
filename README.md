@@ -1,0 +1,2 @@
+# dublajme
+python django project 
